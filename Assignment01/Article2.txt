@@ -1,0 +1,14 @@
+SOURCE
+New Altas (https://newatlas.com/fake-news-machine-learning-mit/56652/)
+AGENT
+MIT
+GOAL
+THe goal was to develop a new machine learning system designed to evaluate not only individual articles, but entire news sources. The system is programmed to classify news sources for general accuracy and political bias.
+DATA
+The system was fed data from a source called Media Bias/Fact Check (MBFC). This independent, non-partisan resource classifies news sources based on political bias and accuracy.
+METHOD
+The system was trained to classify the bias and accuracy of a source based on five features: textual, syntactic and semantic article analysis; its Wikipedia page; Twitter account; URL structure; and web traffic.
+RESULTS
+Researchers report it is 65 percent accurate in detecting factual accuracy and 70 percent accurate at detecting political bias, compared to similar human-checked data from MBFC.
+COMMENTS
+It is pretty accurate for the amount data it is trained on.

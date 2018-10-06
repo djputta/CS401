@@ -1,0 +1,12 @@
+SOURCE
+Healthcare IT News (https://www.healthcareitnews.com/news/machine-learning-helps-ui-health-care-reduce-surgical-site-infection-74-save-12-million)
+AGENT
+University of Iowa
+GOAL
+The goal of this project is to reduce surgical site infection.
+DATA
+The system uses curated knowledge of where and when specific critical decisions that drive outcomes are being made by providers for numerous clinical conditions.
+RESULTS
+This system has led to a 74 percent reduction in surgical site infection.
+COMMENTS
+The money saved due to this decrease is $1.2 million.

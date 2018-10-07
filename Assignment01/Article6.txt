@@ -1,0 +1,14 @@
+SOURCE
+The Hub at John Hopkins (https://hub.jhu.edu/2018/10/04/algorithm-predicts-patient-no-shows/)
+AGENT
+John Hopkins University
+GOAL
+Predict what patients won't show up for their scheduled medical appointments.
+DATA
+The model uses various details of the patients such as demographics, economic status, medical history, etc.
+METHODS
+The model takes various predictors into account—demographics, economic status, medical history, etc.—and calculates a probability "no-show score" for each patient.
+RESULTS
+This has allowed the clinic to add over 70 pediatric appointments to their schedule per week, improving outpatient access for more children while also reducing the no-show rate 16 percent for patients who are highly likely to miss scheduled appointments.
+COMMENTS
+No comments.

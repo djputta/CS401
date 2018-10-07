@@ -1,0 +1,14 @@
+SOURCE
+The Guradian (https://www.theguardian.com/technology/2016/jul/05/google-deepmind-nhs-machine-learning-blindness)
+AGENT
+Google DeepMind
+GOAL
+Goal is to train a neural network to identify early signs of degenerative eye conditions.
+DATA
+They used approximately 1m anonymous digital eye scans, along with some related anonymous information about eye condition and disease management.
+METHODS
+The method used in this project was deep learning.
+RESULTS
+No results mentioned.
+COMMENTS
+No comments.

@@ -6,7 +6,7 @@ GOAL
 The goal of this project is to detect credit card fraud and prevent it.
 DATA
 The algorithm was fed 1.8 million transactions from a large bank.
-METHOD
+METHODS
 The system extracts highly detailed features from data generated from around 133,000 false positives and compares them with 289,000 false positives. Using information extracted from over 200 features for each transaction means that when a user swipes a card the model checks whether the features match fraud behavior. If they do, the sale would be blocked.
 RESULTS
 The system, based on "automated feature engineering", indicated a 54% reduction in false positive predictions compared to traditional models.
